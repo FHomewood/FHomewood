@@ -1,1 +1,1 @@
-![Frankie Homewood. A Data Professional working on large cloud-based data warehousing project. An Architect of scalable solutions built to last. A Communicator set on building stronger teams.](resources/banner.svg)
+<img src="resources/banner.svg" alt="Frankie Homewood. A Data Professional working on large cloud-based data warehousing project. An Architect of scalable solutions built to last. A Communicator set on building stronger teams." width="100%"/>
